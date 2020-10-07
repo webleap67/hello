@@ -7,7 +7,7 @@ import { from } from 'rxjs';
 
 @Component({
     selector: 'gmap',
-    template: `<br><h1>Hello amico mio</h1>`,
+    template: `<br><h1>Hello in gmap amico mio</h1>`,
 })
 
 export class MapComponent {
